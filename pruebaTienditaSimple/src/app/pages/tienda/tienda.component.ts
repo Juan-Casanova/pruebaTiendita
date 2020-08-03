@@ -13,7 +13,6 @@ import {ProductosService} from "../../components/services/productos.service"
 })
 export class TiendaComponent implements OnInit {
 
-  producto:Producto;
   productos:Producto[];
 
   constructor(private productosService:ProductosService) {
