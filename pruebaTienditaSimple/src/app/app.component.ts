@@ -8,8 +8,5 @@ import {Producto} from './models/producto';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  productoArray: Producto[]=[
-    {nombre:"Chocolate",costo:10,inventario:20},
-    {nombre:"Azucar",costo:20,inventario:13}
-  ];
+  
 }
