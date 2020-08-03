@@ -1,0 +1,6 @@
+Instrucciones de Uso
+
+Descargar repositorio
+Ingresar a la terminal y navegar hasta donde se encuentre la carpeta del repo
+y correr la aplicacion con ng serve
+ingresar al navegador en http://localhost:4200/
